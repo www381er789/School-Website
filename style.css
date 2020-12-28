@@ -45,3 +45,18 @@
 .movie_text span {
     color: aquamarine;
 }
+h6 {
+    text-shadow: 2px 2px fuchsia;
+    color: darkgray;
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+    text-shadow: 3px 3px aquamarine;
+    color: bisque;
+    background-color: coral;
+}
+#footer{
+    height: 20px;
+    background-color: chartreuse;
+}
